@@ -1,6 +1,6 @@
 ﻿/*
 / //// / Whip's Quick 'n Dirty Drilling Script v1 - 9/24/2018 / //// / 
-
+Original Script: https://github.com/Whiplash141/SpaceEngineersScripts/blob/c099d0cc0d585b7e7109e702c82e57add3fb97c6/Unpolished/WhipsDirtyDrillingScript%20v1.cs
 Edit by JKRibbz:
 To allow the use of upward (relative to Grid) pistons 
 (UNOFFICIAL NAME) Whip's Editted Quick 'n Dirty Drilling Script v2 - 20/03/2022
